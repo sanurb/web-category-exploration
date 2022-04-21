@@ -177,6 +177,7 @@ img {
   border-radius: 10px;
   border-top-right-radius: 50px;
   transition: all 0.3s;
+  flex: 1 0 21%;
 }
 
 .uil-arrow-right {
